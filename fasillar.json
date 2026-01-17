@@ -59,4 +59,56 @@
     "olcu_birimi": "Baş",
     "gumruk_vergisi": 10
   }
+  [
+  {
+    "gtip": "010229100012",
+    "esya_cinsi": "Ağırlığı 80 kg.ı geçmeyenler (Sığırlar - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229210000",
+    "esya_cinsi": "Ağırlığı 80 kg.ı geçen fakat 160 kg.ı geçmeyenler (Kesimlik olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229290000",
+    "esya_cinsi": "Ağırlığı 80 kg.ı geçen fakat 160 kg.ı geçmeyenler (Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229410000",
+    "esya_cinsi": "Ağırlığı 160 kg.ı geçen fakat 300 kg.ı geçmeyenler (Kesimlik olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229490000",
+    "esya_cinsi": "Ağırlığı 160 kg.ı geçen fakat 300 kg.ı geçmeyenler (Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229510000",
+    "esya_cinsi": "Ağırlığı 300 kg.ı geçenler (Kesimlik olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229590000",
+    "esya_cinsi": "Ağırlığı 300 kg.ı geçenler (Besilik olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229910000",
+    "esya_cinsi": "Ağırlığı 300 kg.ı geçenler (Diğerleri - İnekler)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010229990000",
+    "esya_cinsi": "Ağırlığı 300 kg.ı geçenler (Diğerleri - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010231000000",
+    "esya_cinsi": "Damızlık safkanlar (Mandalar)",
+    "olcu_birimi": "Baş"
+  }
+]
 ]
