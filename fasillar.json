@@ -58,8 +58,7 @@
     "esya_cinsi": "Diğer damızlık sığırlar",
     "olcu_birimi": "Baş",
     "gumruk_vergisi": 10
-  }
-  [
+  },
   {
     "gtip": "010229100012",
     "esya_cinsi": "Ağırlığı 80 kg.ı geçmeyenler (Sığırlar - Diğerleri)",
@@ -109,6 +108,85 @@
     "gtip": "010231000000",
     "esya_cinsi": "Damızlık safkanlar (Mandalar)",
     "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010239100000",
+    "esya_cinsi": "Mandalar (Diğerleri - Evcil olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010239900000",
+    "esya_cinsi": "Mandalar (Diğerleri - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010290200000",
+    "esya_cinsi": "Diğerleri (Sığır cinsi hayvanlar - Damızlık safkanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010290910000",
+    "esya_cinsi": "Diğerleri (Sığır cinsi hayvanlar - Evcil olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010290990000",
+    "esya_cinsi": "Diğerleri (Sığır cinsi hayvanlar - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010310000000",
+    "esya_cinsi": "Canlı domuzlar (Damızlık safkanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010391100000",
+    "esya_cinsi": "Canlı domuzlar (Diğerleri - Ağırlığı 50 kg.dan az olanlar - Evcil olanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010391900000",
+    "esya_cinsi": "Canlı domuzlar (Diğerleri - Ağırlığı 50 kg.dan az olanlar - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010392110000",
+    "esya_cinsi": "Diğerleri (50 kg. ve daha fazla - Evcil olanlar - Damızlık olmayan dişi domuzlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010392190000",
+    "esya_cinsi": "Diğerleri (50 kg. ve daha fazla - Evcil olanlar - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010392900000",
+    "esya_cinsi": "Diğerleri (50 kg. ve daha fazla - Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010410100000",
+    "esya_cinsi": "Canlı koyunlar (Damızlık safkanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010410300000",
+    "esya_cinsi": "Kuzular (bir yaş ve altındakiler) (Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010410800000",
+    "esya_cinsi": "Diğer koyunlar (Diğerleri)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010420100000",
+    "esya_cinsi": "Canlı keçiler (Damızlık safkanlar)",
+    "olcu_birimi": "Baş"
+  },
+  {
+    "gtip": "010420900000",
+    "esya_cinsi": "Canlı keçiler (Diğerleri)",
+    "olcu_birimi": "Baş"
   }
-]
 ]
