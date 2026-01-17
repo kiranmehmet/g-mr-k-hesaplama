@@ -1,7 +1,17 @@
 [
   {
+    "gtip": "020110000000",
+    "esya_cinsi": "Sığır eti (taze veya soğutulmuş) - Karkas",
+    "gumruk_vergisi": 40
+  },
+  {
+    "gtip": "020230100000",
+    "esya_cinsi": "Sığır eti (dondurulmuş) - Kemiksiz",
+    "gumruk_vergisi": 40
+  },
+  {
     "gtip": "010121000000",
-    "esya_cinsi": "Safkan damızlık atlar",
+    "esya_cinsi": "Damızlık safkan atlar",
     "gumruk_vergisi": 0
   }
 ]
