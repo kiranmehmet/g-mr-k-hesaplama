@@ -1,17 +1,62 @@
 [
   {
-    "gtip": "020110000000",
-    "esya_cinsi": "Sığır eti (taze veya soğutulmuş) - Karkas",
-    "gumruk_vergisi": 40
-  },
-  {
-    "gtip": "020230100000",
-    "esya_cinsi": "Sığır eti (dondurulmuş) - Kemiksiz",
-    "gumruk_vergisi": 40
-  },
-  {
     "gtip": "010121000000",
-    "esya_cinsi": "Damızlık safkan atlar",
-    "gumruk_vergisi": 0
+    "esya_cinsi": "Canlı atlar (Damızlıklar)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
+  },
+  {
+    "gtip": "010129100000",
+    "esya_cinsi": "Kesimlik atlar",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 35
+  },
+  {
+    "gtip": "010129900000",
+    "esya_cinsi": "Canlı atlar (Diğerleri)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 35
+  },
+  {
+    "gtip": "010130001000",
+    "esya_cinsi": "Canlı eşekler (Damızlıklar)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
+  },
+  {
+    "gtip": "010130009000",
+    "esya_cinsi": "Canlı eşekler (Diğerleri)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 35
+  },
+  {
+    "gtip": "010190001000",
+    "esya_cinsi": "Canlı katırlar ve bardolar (Damızlıklar)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
+  },
+  {
+    "gtip": "010190009000",
+    "esya_cinsi": "Canlı katırlar ve bardolar (Diğerleri)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 35
+  },
+  {
+    "gtip": "010221100000",
+    "esya_cinsi": "Damızlık sığırlar - Düveler (doğurmamış dişi sığırlar)",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
+  },
+  {
+    "gtip": "010221300000",
+    "esya_cinsi": "Damızlık sığırlar - İnekler",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
+  },
+  {
+    "gtip": "010221900000",
+    "esya_cinsi": "Diğer damızlık sığırlar",
+    "olcu_birimi": "Baş",
+    "gumruk_vergisi": 10
   }
 ]
