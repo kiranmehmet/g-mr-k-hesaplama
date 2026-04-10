@@ -1,0 +1,99 @@
+## HTS PARSER VALIDATION — STRUCTURE CHECK
+
+### Test Scope
+
+This test validates the HTS parser output before Section 301 integration.
+
+Table tested:
+`hts_parsed_v6`
+
+---
+
+### Key Observations
+
+#### 1. Hierarchical Structure
+
+* HTS hierarchy is preserved using `level`
+* Parent rows (level 2) contain duty values
+* Child rows (level 3–5) may contain NULL duty
+
+Example:
+
+```text
+0101.21.00 → Free
+0101.21.00.10 → NULL
+```
+
+This is expected behavior in HTS data.
+
+---
+
+#### 2. Duty Distribution
+
+* Duty values exist primarily at parent level
+* Child rows inherit context but do not duplicate duty
+
+---
+
+#### 3. HS6 Mapping
+
+* `hs6` is correctly derived from HTS code
+* Enables grouping and downstream logic
+
+---
+
+#### 4. Unit Extraction
+
+Units detected correctly:
+
+* No.
+* kg
+* multi-unit arrays
+
+Example:
+
+```text
+["No.","kg"]
+```
+
+---
+
+#### 5. Special Duty (FTA)
+
+Example:
+
+```text
+Free (A+, AU, BH, ...)
+```
+
+This is correctly preserved as raw data.
+
+✔ Not parsed at this stage
+✔ Will be handled in engine layer
+
+---
+
+### Design Confirmation
+
+✔ Parser is **non-destructive**
+✔ Parser is **hierarchy-aware**
+✔ Parser is **deterministic**
+
+---
+
+### Important Insight
+
+> HTS is NOT flat data
+> It is a hierarchical tree
+
+The parser correctly reflects this.
+
+---
+
+### Conclusion
+
+✔ Parser output is valid
+✔ No structural issues detected
+✔ Ready for Section 301 integration
+
+---
